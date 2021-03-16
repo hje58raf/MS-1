@@ -18,7 +18,7 @@ body {
 }
 
 .general-sub {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: #3066be;
     padding-bottom: 10px;
@@ -49,7 +49,7 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
     color: #3066be;
@@ -71,7 +71,7 @@ video {
 
 .about-heading {
     text-align: center;
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color:  #3066be;
@@ -80,7 +80,7 @@ video {
 
 .about-skills {
     text-align: left;
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     font-weight: normal;
     color:  #3066be;
@@ -122,7 +122,7 @@ progress {
 
 .galery-heading {
   text-align: center;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   font-weight: bold;
   color:  #3066be;
