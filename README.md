@@ -1,5 +1,15 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+# Website portfolio of Iva Jelavic Aka Maoxchan
+
+This Website,  is part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module. 
+It is intended for recruits and potential employers to provide an overview of my skills, experiences and qualifications.
+
+
+
+
+
+
 Welcome hje58raf,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
