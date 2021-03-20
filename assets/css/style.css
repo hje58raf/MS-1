@@ -55,36 +55,16 @@ body {
 }
 
 
-/* -- Intro -- */
-
-video {
-    width: 100%;
-    height: auto;
-}
-.clip {
-    padding: 0 0 0 0;
-}
-
-
-.title {
-    text-align: center;
-    font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    color:  #3066be;
-    padding-bottom: 15px;
-}
-
-
 /* -- Footer Copied from resume-miniproject-bootstrap4 - Code Institute - modified-- */
 
 
 footer {
     background-color: #d1e3fa;
     color: #3066be;
+    min-height: 30px;
     margin: 0;
-    padding-top: 5px   ;
+    padding-top: 10px;
     padding-bottom: 0;
-    position:fixed;
     bottom:0;
 }
 
@@ -122,7 +102,7 @@ footer {
 .copyright {
     font-size: 10px;
 }
-/* -- About me -- */
+/* -- index -- */
 
 .personal-info {
     text-align: center;
@@ -170,7 +150,7 @@ footer {
 }
 
 .conteiner-skils {
-    padding-bottom: 120px;
+    padding-bottom: 10px;
 }
 
 .center {
@@ -180,14 +160,12 @@ footer {
 
 /* -- Gallery Taken from https://www.w3schools.com/css/css_image_gallery.asp and modified -- */
 
-
-
-.gallery-heading {
-  text-align: center;
-  font-family: 'Lato', sans-serif;
-  text-transform: uppercase;
-  font-weight: bold;
-  color:  #3066be;
+.title {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color:  #3066be;
+    padding-bottom: 15px;
 }
 
 div.gallery {
@@ -244,7 +222,7 @@ div.gallery2 img {
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
-    padding-bottom: 120px;
+    padding-bottom: 10px;
 }
 
 #artwork img {
@@ -277,7 +255,6 @@ div.gallery2 img {
 .contact-heading {
     text-align: center;
     font-family: 'Lato', sans-serif;
-    text-transform: uppercase;
     font-weight: bold;
     color:  #3066be;
     padding-top: 30px;
@@ -291,7 +268,7 @@ div.gallery2 img {
 
 button[type="submit"] {
     margin-top: 20px;
-    margin-bottom: 120px;
+    margin-bottom: 10px;
     color: #3066be;
     background-color: #d1e3fa;
 }
@@ -309,3 +286,4 @@ form {
     width:100%;
     margin: 10px auto;
 }
+

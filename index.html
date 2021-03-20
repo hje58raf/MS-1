@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Description" content="Iva Jelavic, Maoxchan, Animator, Animation, 2D animation, 3D animation, Character designe, Enviroment designe, Design, Ilustration, Artwork, Drawing, Visual Effects, Cartoon"/>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" type="text/css"/>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Iva Jelavic</title>
     <link rel="icon" href="assets/images/LOGO.png" type="image/icon" sizes="16x16">
@@ -15,18 +15,13 @@
     <!-- Navbar / Taken from Bootsrap documentation and modified-->
     <div class="container-fluid">
         <nav class="navbar navbar-expand-md bg-light-blue navbar-light fixed-top">
-            <a class="navbar-brand" href="#">
-            <img class="logo" src="assets/images/LOGO.png" alt="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Home</a>
-                    </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About me</a>
+                        <a class="nav-link active" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="gallery.html">Gallery</a>
@@ -35,43 +30,67 @@
                         <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="assets/cv/Zeus.txt" target="_blank">Download CV</a>
+                        <a class="nav-link" href="assets/cv/Zeus.txt" target="_blank">Resume</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </div>
-    
-    <!--Home section-->
-  
-    <div class="container-fluid">
-        <div class="row title uppercase">
-            <div class="col">
-                <h1>Iva Jelavic Aka Maoxchan<br></h1>
-                <h2>Animator<br></h2>
+<!--hero image section-->    
+    <section id="about">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 about-image center">
+                    <img  src="assets/images/Photo.jpg" class="img-fluid" alt="Iva Jelavic" width="400" height="300">
+                </div>
+                <div class="col-md-4 personal-info center">
+                    <h1>Hello, I'm Iva Jelavic aka Maoxchan</h1>
+                    <h2>Freelance animator and character designer</h2>
+                </div> 
+                <div class="col-md-4 about-image center">
+                    <img  src="assets/images/Untitled design.png" class="img-fluid" alt="Iva Jelavic" width="400" height="300">
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-sm clip">
-                <video width="640"  muted autoplay loop>
-                <source src="assets/images/Spin_of_the_3D_modell.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-                </video>
-            </div>
-                
-            <div class="col-sm clip">
-                <video width="640" muted autoplay loop>
-                <source src="assets/images/Spin_of_the_3D_model.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-                </video>
+    </section>
+    <br><br>
+    <!--my skills section-->
+    <section class="container-fluid conteiner-skils">
+        <div class="row skills center-skills">
+            <div class="col skills-form">
+                <h2 class="skills-heading uppercase">My Skils</h2>
+                <div>
+                    <ul>
+                        <li>CLIP STUDIO PAINT 
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 75%">75%</div>
+                            </div>
+                        </li>
+                        <li>AFTER EFFECTS 
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 55%">55%</div>
+                            </div>
+                        </li>
+                        <li>PREMIER PRO
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+                            </div>
+                        </li>
+                        <li>PHOTOSHOP 
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 25%">25%</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
-    </div>
-   
-    <footer class="container-fluid">
+    </section>
+    <br><br>
+  <footer class="container-fluid">
         <div id="footer-details" class="row justify-content-center no-gutters">
             <div class="col">
-                <h6 class="uppercase general-sub">Social</h6>
+                <p class=" general-sub">Check out my social pages</p>
                 <ul class="inline-block social-links">
                     <li class="list-inline-item ml-3">
                         <a target="_blank" href="https://www.facebook.com/">
@@ -92,7 +111,7 @@
                         </a>
                     </li>
                 </ul>
-                 <h6 class="copyright general-sub">Copyright 2021 © Marko Jelavic</h6>
+                 <p class="copyright general-sub">Copyright 2021 © Marko Jelavic</p>
             </div>
         </div>
     </footer>
