@@ -119,6 +119,7 @@ footer {
 } 
 
 
+
 .skills {
     padding: 10px 20px;
     border: solid 1px #232534;
@@ -158,6 +159,13 @@ footer {
   width: 50%;
 }
 
+#about img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*--Gallery Taken from https://www.w3schools.com/css/css_image_gallery.asp and modified--*/
 
 .title {
@@ -175,6 +183,7 @@ div.gallery {
 div.gallery:hover {
   border: 1px solid #777;
 }
+
 
 div.gallery img {
   width: 100%;
@@ -200,17 +209,6 @@ div.desc {
   width: 33.33333%;
 }
 
-.responsive2 {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-div.gallery2 img {
-  width: 100%;
-  height: auto;
-}
-
 .clearfix:after {
   content: "";
   display: table;
@@ -225,14 +223,19 @@ div.gallery2 img {
     padding-bottom: 10px;
 }
 
+video {
+  max-width: 100%;
+  height: auto;
+}
+ 
 #artwork img {
     width: 100%;
 }
 
 
 @media only screen and (max-width: 943px) {
-    .responsive .responsive2 {
-    width: 49.99999%;
+    .responsive {
+    width: 50%;
     margin: 6px 0;
     }
     #artwork {
