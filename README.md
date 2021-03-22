@@ -15,9 +15,45 @@ It is intended for recruits and potential employers to provide an overview of my
 5. [Deployment](#Deployment)
 6. [Credits](#Credits)
 
-## UX
+# [UX](#UX)
 
-### 
+## Project goals
+
+* Making a static front-end site to present useful information to users/ recruitments, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
+* Creating a website that is easy to navigate and easy to understand.
+* The customer experience has to be great on every device and internet browser.
+* I am creating a portfolio website to show my daughter skills and creativity and competencies.
+* The portfolio website is for recruiters and the animation industry, who want to know more about my daughter.
+
+## User stories
+
+### First time visitors
+
+* As a first time visitor, I want the website scales on every device, so that I can look at the website on desktop, mobile and tablet.
+* As a first visitor, I want to see the works so far, so I know that person’s level of experience.
+* As a first time visitor, I want to know which projects the person has done, so that I know the level of experience of the person.
+* As a first time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about. 
+* As a first time visitor, I want to be able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
+
+### As a recruiter
+
+* I want to easily check her skill set comparing it against those required by my client. The ability to download her curriculum vitae will help to speed up the recruitment process and allow me to share her details with my client. 
+* I will need to have a quick and easy way to contact her if she meets the required criteria.
+
+## Design
+
+I've chosen 2 primary colours for the backgrounds (#fdebe4), headings and footers (#d1e3fa). I tried to match the colors on the website with the colors used in the Maoxchan image
+
+## Typography
+
+The Lato and Roboto font are the main fonts used throughout the whole portfolio website. Sans Serif is the fallback in case the main font isn’t being imported to the site correctly. 
+
+## Imagery
+
+All images are personal images. I tried to match the colors on the website with the colors used in the Maoxchan image.
+
+
+
 
 
 
