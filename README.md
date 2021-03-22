@@ -3,7 +3,7 @@
 # Website portfolio of Iva Jelavic Aka Maoxchan
 
 [Maoxchan Website](https://hje58raf.github.io/MS-1/)  is part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module. 
-It is intended for recruits and potential employers to provide an overview of my skills, experiences and qualifications.
+It is intended for recruits and potential employers to provide an overview of my daughter skills, experiences and qualifications.
 
 ![Am I responsive screenshot](/assets/images/responsive.png)
 
