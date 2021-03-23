@@ -54,9 +54,95 @@ All images are personal images. I tried to match the colors on the website with 
 
 ## Wireframes
 
-### PC 
+![image]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
 
-!(/assets/images/readme/wireframes_pc.pdf)
+![image]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
+
+
+# Features
+
+## Existing Features
+
+### Header navigation bar
+
+My daughter personal logo is shown on the header on the left side. The navigation bar items are positioned to the left side of the screen and aligned in the centre of the bar. They give access to the Gallery, and Contact pages as well as allowing the site visitor to download my Curriculum Vitae.
+With a mobile device, the navibar is displayed in a hamburger menu.
+
+### Footer
+
+Social media links of Facebook Instagram and Twitter.
+
+### Home
+
+On the home page, my daughter is presented with a picture of her and a picture of her pseudonym. I also listed her skills as an animator and character designer.
+From the homepage there are links to the gallery page and contact page.
+
+### Gallery page
+
+The gallery page is divided into three sections: Gif, Animation and Artwork. Here are some of her works from these areas. 
+
+
+### Contact page
+
+My contact page is very simple so. There are input fields for a name, email address and a decription of what the contact is in relation to.
+
+## Features left to implement in the future
+
+As this project is designed to build a static front-end which demonstrates the skills I have developed using CSS3, HTML5 and Bootstrap technologies, I would like to add a page for the sale of works in the following projects. 
+I would also like to allow visitors to rate the works.
+
+
+# Technologies
+
+## Languages used
+* HTML5
+    * HTML5 provides the structure and the content for my project.
+* CSS3
+    * CSS3 provides the style of the HTML5 elements.
+
+## Frameworks, libraries & programs used
+* Bootstrap v4.5.2
+    * Bootstrap v4.5.2 is used to create the layout for desktop and mobile.
+* Gitpod
+    * The GitPod is used to develop the project.
+* Git
+    * The Git was used for version control to commit to Git and push to GitHub.
+* GitHub
+    * The GitHub is used to host the project.
+* Google Fonts
+    * Google Fonts is used to provide the font roboto for all the text that is used in the project.
+* Balsamiq
+    * Balsamiq was used to create the wireframes during the design process.
+* Fontawesome
+    * Fontawesome was used for the social media icons
+* W3C Markup Validation Service
+    * The W3C MarkUp Validation Service is used to check whether there were any errors in the HTML5 code.
+* W3C CSS validator
+    * The W3C CSS validator is used to check whether there were any errors in the CSS3 code.
+
+# Testing
+
+# Deployment
+
+## Deployment of my project
+
+The project was deployed to GitHub with the following steps:
+1. Log in to GitHub and locate the GitHub Repository
+2. Select “your profile” from the upper-right dropdown menu and select the proper repository.
+3. Select Settings and Scroll down until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+Clone my project
+1. Log in to GitHub and go to the repository.
+2. Click on the green button with the text “Code”.
+3. Click on “Open with GitHub Desktop” and follow the prompts in the GitHub Desktop Application or follow the instructions from this link to see how to clone the repository in other ways.
+
+# Credits
+
+
+
 
 
 
