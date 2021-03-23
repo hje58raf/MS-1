@@ -54,10 +54,6 @@ All images are personal images. I tried to match the colors on the website with 
 
 ## Wireframes
 
-[wireframes_pc.pdf](https://github.com/hje58raf/MS-1/files/6186096/wireframes_pc.pdf)
-[wireframes_mobile.pdf](https://github.com/hje58raf/MS-1/files/6186097/wireframes_mobile.pdf)
-
-
 ![image]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
 
 ![image]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
