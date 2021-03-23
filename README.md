@@ -54,16 +54,9 @@ All images are personal images. I tried to match the colors on the website with 
 
 ## Wireframes
 
-<<<<<<< HEAD
-![Desktop]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
+[Desktop](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
 
-![Mobile]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
-=======
-![Desktop](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
-
-![Mobile](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
->>>>>>> 71cec86b8aa262d713c711bcbd9e78eeec646bf2
-
+[Mobile](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
 
 # Features
 
@@ -128,7 +121,18 @@ I would also like to allow visitors to rate the works.
 
 # Testing
 
-# Deployment
+## Code validators
+
+### [HTML Validator](https://validator.w3.org/)
+
+* Home page
+![]()
+* Gallery page
+* Contact page
+
+### [CSS Validator](https://validator.w3.org/)
+
+
 
 ## Deployment of my project
 
