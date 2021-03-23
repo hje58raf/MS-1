@@ -142,6 +142,8 @@ I would also like to allow visitors to rate the works.
 ![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/css_validator.png)
 
 
+# Deployment
+
 ## Deployment of my project
 
 The project was deployed to GitHub with the following steps:
