@@ -22,7 +22,7 @@ It is intended for recruits and potential employers to provide an overview of my
 * Making a static front-end site to present useful information to users/ recruitments, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
 * Creating a website that is easy to navigate and easy to understand.
 * The customer experience has to be great on every device and internet browser.
-* I am creating a portfolio website to show my daughter skills and creativity and competencies.
+* I am creating a portfolio website to show my daughter skills, creativity and competencies.
 * The portfolio website is for recruiters and the animation industry, who want to know more about my daughter.
 
 ## User stories
@@ -30,7 +30,6 @@ It is intended for recruits and potential employers to provide an overview of my
 ### First time visitors
 
 * As a first time visitor, I want the website scales on every device, so that I can look at the website on desktop, mobile and tablet.
-* As a first visitor, I want to see the works so far, so I know that person’s level of experience.
 * As a first time visitor, I want to know which projects the person has done, so that I know the level of experience of the person.
 * As a first time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about. 
 * As a first time visitor, I want to be able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
@@ -141,8 +140,65 @@ I would also like to allow visitors to rate the works.
 
 ![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/css_validator.png)
 
+## Browser compatibility
+
+I tested the apperance and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
+
+## Test the Navigation Bar between Desktop and Mobile
+
+Test the navigation bar collapses to give the 'hamburger' icon when the device is smaller than medium.
+
+* Test Results
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/desktop_header.png)
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/mobile_hamburger_header.png)
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/mobile_dropdown_header.png)
+
+## Test the Footer
+
+I placed the social media icons in the center of the footer. I tested all the links and they all worked well. The social media links each open in a separate tab.
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/footer.png)
 
 
+## Navigation Testing
+
+The menu options all open the correct page with the exception of the 'CV Download' which opens my CV in a separate tab.
+
+
+## Contact Page
+
+When testing a page, the Name and Description fields allow input of any text while Email requires input of Email form. I repeated the test several times and each time it was successful.
+
+## Gallery Page
+
+The Gallery page is divided into three sections showing representative works of my daughter with which I wanted to show her skills, creativity and competencies.
+
+In the first section there are Gifs and in the second there are animations. They are divided into three columns, on a tablet into two, on a cell phone into one.
+
+In the third section are the Artworks that go from four columns, to three and then to two on the cell phone.
+
+# Testing user stories
+
+## First time visitors
+
+* As a first time visitor, I want the website scales on every device, so that I can look at the website on desktop, mobile and tablet.
+    * The first time visitor can visite to the website on a computer, laptop, phone and tablet. 
+* As a first time visitor, I want to know which projects the person has done, so that I know the level of experience of the person.
+    * The first time visitor can go to the projects page where the visitor can see all projects the person has done.
+* As a first time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about.
+    * The first time visitor sees the navigation on the top of the website (the header) where the visitor can easily navigate through the website. For the mobile visitors there is a hamburger menu.
+* As a first time visitor, I want to be able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
+    * The first time visitor can open the Resume and get additional information.
+
+## As a recruiter
+
+* I want to easily check her skill set comparing it against those required by my client. The ability to download her curriculum vitae will help to speed up the recruitment process and allow me to share her details with my client. 
+    * Previous projects has been provided to accomplish this outcome. It is also possible to view CVs as well as links to social pages.
+* I will need to have a quick and easy way to contact her if she meets the required criteria.
+    * This is made possible through the Contact page.
 
 # Deployment
 
@@ -162,6 +218,22 @@ Clone my project
 3. Click on “Open with GitHub Desktop” and follow the prompts in the GitHub Desktop Application or follow the instructions from this link to see how to clone the repository in other ways.
 
 # Credits
+
+## Content
+Most of the code was developed by the use of Bootstrap's library throughout the project for the purpose of ensuring the responsiveness of the website such as the Navbar, Gifs and Animation Gallery. I found inspiration for Artwork gallery and footer in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
+
+
+## Media
+
+All images on the website are made by my daughter, Iva Jelavic.
+
+I would like to thank:
+* My mentor, Rahul Lakhanpal, for his guidance, patience and encouragement throughout this project.
+* The slack community for its extensive Q&A, I found most of the answers to my problems there.
+* Thanks to everyone at the Code Institute for helping to make this such an enjoyable and rewarding experience.
+
+
+
 
 
 
