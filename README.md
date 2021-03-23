@@ -15,7 +15,7 @@ It is intended for recruits and potential employers to provide an overview of my
 5. [Deployment](#Deployment)
 6. [Credits](#Credits)
 
-# [UX](#UX)
+# UX
 
 ## Project goals
 
@@ -51,6 +51,13 @@ The Lato and Roboto font are the main fonts used throughout the whole portfolio 
 ## Imagery
 
 All images are personal images. I tried to match the colors on the website with the colors used in the Maoxchan image.
+
+## Wireframes
+
+### PC 
+
+!(/assets/images/readme/wireframes_pc.pdf)
+
 
 
 
