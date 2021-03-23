@@ -29,10 +29,10 @@ It is intended for recruits and potential employers to provide an overview of my
 
 ### First time visitors
 
-* As a first time visitor, I want the website scales on every device, so that I can look at the website on desktop, mobile and tablet.
-* As a first time visitor, I want to know which projects the person has done, so that I know the level of experience of the person.
-* As a first time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about. 
-* As a first time visitor, I want to be able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
+* As a first-time visitor, I want the website to scale on every device so that I can look at the website on desktop, mobile and tablet.
+* As a first-time visitor, I want to know which projects the person has done so that I know the level of experience of the person.
+* As a first-time visitor, to the site I want the information to be clear and concise so that I can easily understand what the site is about. 
+* As a first-time visitor, I want to being able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
 
 ### As a recruiter
 
@@ -45,7 +45,7 @@ I've chosen 2 primary colours for the backgrounds (#fdebe4), headings and footer
 
 ## Typography
 
-The Lato and Roboto font are the main fonts used throughout the whole portfolio website. Sans Serif is the fallback in case the main font isn’t being imported to the site correctly. 
+The Lato and Roboto font is the main fonts used throughout the whole portfolio website. Sans Serif is the fallback in case the main font isn’t being imported to the site correctly. 
 
 ## Imagery
 
@@ -64,7 +64,7 @@ All images are personal images. I tried to match the colors on the website with 
 ### Header navigation bar
 
 My daughter personal logo is shown on the header on the left side. The navigation bar items are positioned to the left side of the screen and aligned in the centre of the bar. They give access to the Gallery, and Contact pages as well as allowing the site visitor to download my Curriculum Vitae.
-With a mobile device, the navibar is displayed in a hamburger menu.
+With a mobile device, the navbar is displayed in a hamburger menu.
 
 ### Footer
 
@@ -73,7 +73,7 @@ Social media links of Facebook Instagram and Twitter.
 ### Home
 
 On the home page, my daughter is presented with a picture of her and a picture of her pseudonym. I also listed her skills as an animator and character designer.
-From the homepage there are links to the gallery page and contact page.
+From the homepage, there are links to the gallery page and contact page.
 
 ### Gallery page
 
@@ -82,11 +82,11 @@ The gallery page is divided into three sections: Gif, Animation and Artwork. Her
 
 ### Contact page
 
-My contact page is very simple so. There are input fields for a name, email address and a decription of what the contact is in relation to.
+My contact page is very simple so. There are input fields for a name, email address and a description of what the contact is concerning.
 
 ## Features left to implement in the future
 
-As this project is designed to build a static front-end which demonstrates the skills I have developed using CSS3, HTML5 and Bootstrap technologies, I would like to add a page for the sale of works in the following projects. 
+As this project is designed to build a static front-end that demonstrates the skills I have developed using CSS3, HTML5 and Bootstrap technologies, I would like to add a page for the sale of works in the following projects. 
 I would also like to allow visitors to rate the works.
 
 
@@ -106,9 +106,9 @@ I would also like to allow visitors to rate the works.
 * Git
     * The Git was used for version control to commit to Git and push to GitHub.
 * GitHub
-    * The GitHub is used to host the project.
+    * GitHub is used to host the project.
 * Google Fonts
-    * Google Fonts is used to provide the font roboto for all the text that is used in the project.
+    * Google Fonts is used to provide the font Lato and Roboto that is used in the project.
 * Balsamiq
     * Balsamiq was used to create the wireframes during the design process.
 * Fontawesome
@@ -142,7 +142,7 @@ I would also like to allow visitors to rate the works.
 
 ## Browser compatibility
 
-I tested the apperance and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
+I tested the appearance  and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
 
 ## Test the Navigation Bar between Desktop and Mobile
 
@@ -165,38 +165,38 @@ I placed the social media icons in the center of the footer. I tested all the li
 
 ## Navigation Testing
 
-The menu options all open the correct page with the exception of the 'CV Download' which opens my CV in a separate tab.
+The menu options all open the correct page except for of the 'CV Download' which opens my CV in a separate tab.
 
 
 ## Contact Page
 
-When testing a page, the Name and Description fields allow input of any text while Email requires input of Email form. I repeated the test several times and each time it was successful.
+When testing a page, the Name and Description fields allow input of any text while Email requires the input of Email form. I repeated the test several times and each time it was successful.
 
 ## Gallery Page
 
 The Gallery page is divided into three sections showing representative works of my daughter with which I wanted to show her skills, creativity and competencies.
 
-In the first section there are Gifs and in the second there are animations. They are divided into three columns, on a tablet into two, on a cell phone into one.
+In the first section, there are Gifs and in the second there are animations. They are divided into three columns, on a tablet into two, on a cell phone into one.
 
-In the third section are the Artworks that go from four columns, to three and then to two on the cell phone.
+In the third section are the Artworks that go from four columns to three and then to two on the cell phone.
 
 # Testing user stories
 
-## First time visitors
+## First-time visitors
 
-* As a first time visitor, I want the website scales on every device, so that I can look at the website on desktop, mobile and tablet.
+* As a first-time visitor, I want the website to scale on every device so that I can look at the website on desktop, mobile and tablet.
     * The first time visitor can visite to the website on a computer, laptop, phone and tablet. 
-* As a first time visitor, I want to know which projects the person has done, so that I know the level of experience of the person.
+* As a first-time visitor, I want to know which projects the person has done so that I know the level of experience of the person.
     * The first time visitor can go to the projects page where the visitor can see all projects the person has done.
-* As a first time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about.
-    * The first time visitor sees the navigation on the top of the website (the header) where the visitor can easily navigate through the website. For the mobile visitors there is a hamburger menu.
-* As a first time visitor, I want to be able to find all the information that is available including be able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
+* As a first-time visitor to the site I want the information to be clear and concise so that I can easily understand what the site is about.
+    * The first time visitor sees the navigation on the top of the website (the header) where the visitor can easily navigate through the website. For mobile visitors, there is a hamburger menu.
+* As a first-time visitor, I want to be able to find all the information that is available including being able to download a copy of the curriculum vitae and the facility to check out their social media for any other useful information.
     * The first time visitor can open the Resume and get additional information.
 
 ## As a recruiter
 
 * I want to easily check her skill set comparing it against those required by my client. The ability to download her curriculum vitae will help to speed up the recruitment process and allow me to share her details with my client. 
-    * Previous projects has been provided to accomplish this outcome. It is also possible to view CVs as well as links to social pages.
+    * Previous projects have been provided to accomplish this outcome. It is also possible to view CVs as well as links to social pages.
 * I will need to have a quick and easy way to contact her if she meets the required criteria.
     * This is made possible through the Contact page.
 
@@ -220,7 +220,7 @@ Clone my project
 # Credits
 
 ## Content
-Most of the code was developed by the use of Bootstrap's library throughout the project for the purpose of ensuring the responsiveness of the website such as the Navbar, Gifs and Animation Gallery. I found inspiration for Artwork gallery and footer in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
+Most of the code was developed by the use of Bootstrap's library throughout the project to ensure the responsiveness of the website such as the Navbar, Gifs and Animation Gallery. I found inspiration for the Artwork gallery and footer in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
 
 
 ## Media
