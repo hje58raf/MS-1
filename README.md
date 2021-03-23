@@ -126,12 +126,20 @@ I would also like to allow visitors to rate the works.
 ### [HTML Validator](https://validator.w3.org/)
 
 * Home page
-![]()
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/homepage_validator.png)
+
 * Gallery page
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/gallery_validator.png)
+
 * Contact page
+
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/contact_validator.png)
 
 ### [CSS Validator](https://validator.w3.org/)
 
+![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/css_validator.png)
 
 
 ## Deployment of my project
