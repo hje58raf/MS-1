@@ -54,9 +54,9 @@ All images are personal images. I tried to match the colors on the website with 
 
 ## Wireframes
 
-![Desktop]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
+![Desktop](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_pc.pdf)
 
-![Mobile]!(https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
+![Mobile](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/wireframes_mobile.pdf)
 
 
 # Features
